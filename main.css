@@ -14,7 +14,7 @@ body {
 .conteiner {
   width: 500px;
   height: 200px;
-  background-color: lightsalmon;
+  background-color: rgb(182, 101, 69);
   border-radius: 10px;
   box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
   position: relative;
